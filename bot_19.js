@@ -150,7 +150,7 @@ if (message.content === prefix+'spam') {
 					}
 				}
 			}
-		}, 40000);
+		}, 6000);
 }
 });
 
