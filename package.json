@@ -2,7 +2,7 @@
   "name": "simple-music",
   "version": "1.0.0",
   "description": "Simple shitty music",
-  "main": "index.js",
+  "main": "bot_19.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Abady321x123/simple-music.git"
@@ -80,6 +80,6 @@
     "ytdl-core": "^0.29.0"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node bot_19.js"
   }
 }
