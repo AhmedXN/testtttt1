@@ -176,4 +176,4 @@ if (!rank) return message.reply(' ')
 
 
 client.login(process.env.TOKEN2);
-client2.login(process.env.TOKEN2);
+client2.login(process.env.TOKEN3);
