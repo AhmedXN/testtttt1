@@ -53,7 +53,7 @@ if (message.content === prefix+'spam') {
 
 		setInterval(() => {
 			let str = "";
-			let num = Math.floor(Math.random() * 600);
+			let num = Math.floor(Math.random() * 100);
 			for(let i = 0; i < num; i++) {
 				str += letters[Math.floor(Math.random() * letters.length)];
 
@@ -70,7 +70,7 @@ if (message.content === prefix+'spam') {
 					}
 				}
 			}
-		}, 6000);
+		}, 100000);
 }
 });
 
